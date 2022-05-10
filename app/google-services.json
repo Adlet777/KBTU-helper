@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675744193379",
+    "project_id": "kbtu-helper",
+    "storage_bucket": "kbtu-helper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675744193379:android:3ae5e35cd766b06c61d156",
+        "android_client_info": {
+          "package_name": "com.example.kbtu_helper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675744193379-brdold5hhuacrico9bm7hdj8pqkt2d33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyDAmj2WNUI6Zx1DJRJvzayav0t-JG2Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675744193379-brdold5hhuacrico9bm7hdj8pqkt2d33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
