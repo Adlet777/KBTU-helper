@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/subjectsListFragment"
-        android:name="com.example.kbtu_helper.SubjectsListFragment"
+        android:name="com.example.kbtu_helper.view.SubjectsListFragment"
         android:label="fragment_subjects_list"
         tools:layout="@layout/fragment_subjects_list" >
         <action
@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/subjectsAddFragment"
-        android:name="com.example.kbtu_helper.SubjectsAddFragment"
+        android:name="com.example.kbtu_helper.view.SubjectsAddFragment"
         android:label="fragment_subjects_add"
         tools:layout="@layout/fragment_subjects_add" >
         <action

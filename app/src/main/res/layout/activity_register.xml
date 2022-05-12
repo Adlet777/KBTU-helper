@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:padding="20dp"
-    tools:context=".RegisterActivity">
+    tools:context=".presenter.RegisterActivity">
 
 
     <TextView
@@ -52,6 +52,7 @@
         android:id="@+id/register_activity_button"
         android:layout_below="@+id/password_text_input_layout"
         android:layout_centerHorizontal="true"
+        android:backgroundTint="#12CEFB"
         style="@style/TextAppearance.AppCompat.Widget.Button.Colored"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />

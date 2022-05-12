@@ -3,16 +3,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ProfileFragment">
+    tools:context=".view.ProfileFragment">
 
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
-<!--        <RelativeLayout-->
-<!--            android:layout_width="match_parent"-->
-<!--            android:layout_height="180dp"-->
-<!--            android:background="blue" />-->
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -25,8 +21,8 @@
                 android:layout_width="120dp"
                 android:layout_height="120dp"
                 android:layout_marginStart="20dp"
-                android:contentDescription="description"
                 android:background="@color/design_default_color_primary"
+                android:contentDescription="description"
                 android:padding="5dp"
                 android:src="@drawable/ic_add_photo" />
 

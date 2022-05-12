@@ -4,8 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/drawable-anydpi/ic_add_photo.xml" value="0.137" />
+        <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/drawable-anydpi/ic_chat.xml" value="0.124" />
+        <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/drawable-anydpi/ic_default_avatar.xml" value="0.124" />
         <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/drawable-anydpi/ic_home.xml" value="0.1" />
         <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/drawable-anydpi/ic_profile.xml" value="0.1" />
+        <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/drawable-anydpi/ic_send.xml" value="0.124" />
+        <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/drawable-anydpi/ic_subjects.xml" value="0.124" />
         <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/drawable-anydpi/ic_users.xml" value="0.1" />
         <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2005" />
         <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/drawable-xxhdpi/bg_receiver.xml" value="0.124" />
@@ -17,13 +21,18 @@
         <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/layout/activity_profile.xml" value="0.12360688956433637" />
         <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/layout/activity_register.xml" value="0.152" />
+        <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/layout/custom_home_row.xml" value="0.2246376811594203" />
+        <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/layout/custom_progress_row.xml" value="0.4" />
         <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/layout/custom_row.xml" value="0.2246376811594203" />
+        <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/layout/custom_subject_row.xml" value="0.4" />
+        <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/layout/fragment_article.xml" value="0.2246376811594203" />
         <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/layout/fragment_chat_list.xml" value="0.1078125" />
         <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/layout/fragment_home.xml" value="0.15885416666666666" />
         <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/layout/fragment_list.xml" value="0.2246376811594203" />
-        <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/layout/fragment_profile.xml" value="0.15885416666666666" />
+        <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/layout/fragment_progress.xml" value="0.1015625" />
         <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/layout/fragment_subjects.xml" value="0.2246376811594203" />
-        <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/layout/fragment_subjects_add.xml" value="0.1265625" />
+        <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/layout/fragment_subjects_add.xml" value="0.2" />
         <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/layout/fragment_subjects_list.xml" value="0.2246376811594203" />
         <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/layout/fragment_users.xml" value="0.15885416666666666" />
         <entry key="..\:/Users/ATleubay/Desktop/android_project_test/KBTU_helper2/app/src/main/res/layout/row_chat_receiver.xml" value="0.264" />
